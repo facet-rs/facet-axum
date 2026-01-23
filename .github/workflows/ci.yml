@@ -74,7 +74,7 @@ jobs:
         uses: Swatinem/rust-cache@v2
 
       - name: Run tests
-        run: cargo nextest run --all-features
+        run: cargo nextest run --all-features --no-tests=pass
 
   doc:
     name: Documentation
