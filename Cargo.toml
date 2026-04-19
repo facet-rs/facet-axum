@@ -23,7 +23,7 @@ all = ["json", "form", "yaml", "toml", "xml", "msgpack", "postcard"]
 
 [dependencies]
 facet-json = { version = "0.44.0", optional = true }
-facet-msgpack = { version = "0.44.0", optional = true }
+facet-msgpack = { version = "0.46.0", optional = true }
 facet-postcard = { version = "0.44.0", optional = true }
 facet-toml = { version = "0.44.0", optional = true }
 facet-xml = { version = "0.44.0", optional = true }
