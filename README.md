@@ -1,16 +1,5 @@
 # facet-axum
 
-> [!IMPORTANT]
-> `facet-axum` is now maintained in the
-> [`facet-rs/facet`](https://github.com/facet-rs/facet) monorepo.
->
-> New source location:
-> [`facet-axum/`](https://github.com/facet-rs/facet/tree/main/facet-axum)
->
-> Please open future issues and pull requests against
-> [`facet-rs/facet`](https://github.com/facet-rs/facet). This repository is
-> kept for historical context and will be archived after the move is complete.
-
 [![crates.io](https://img.shields.io/crates/v/facet-axum.svg)](https://crates.io/crates/facet-axum)
 [![documentation](https://docs.rs/facet-axum/badge.svg)](https://docs.rs/facet-axum)
 [![MIT/Apache-2.0 licensed](https://img.shields.io/crates/l/facet-axum.svg)](./LICENSE)
